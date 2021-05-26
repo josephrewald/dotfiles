@@ -1,3 +1,5 @@
+" testing ln
+" and more testing
 let mapleader = "\<Space>"
 
 set number relativenumber
