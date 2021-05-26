@@ -16,3 +16,4 @@ cd ~/
 
 alias ll='ls -la'
 # testing something
+alias hi='echo "hello"'
