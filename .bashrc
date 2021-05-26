@@ -10,3 +10,6 @@ PS1='[\u@\h \W]\$ '
 
 alias v=nvim
 export EDITOR=nvim
+
+source ~/.local_environment_variables.sh
+cd ~/
