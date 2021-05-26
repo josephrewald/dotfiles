@@ -13,3 +13,5 @@ export EDITOR=nvim
 
 source ~/.local_environment_variables.sh
 cd ~/
+
+alias ll='ls -la'
